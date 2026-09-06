@@ -1,0 +1,29 @@
+{
+  "idea": "car detailing company",
+  "templateId": "signature",
+  "content": {
+    "siteKind": "business",
+    "title": "Car Detailing",
+    "tagline": "Professional shine for every vehicle",
+    "intro": "We provide thorough interior and exterior detailing that restores your car’s appearance and protects its finish.",
+    "sections": [
+      {
+        "title": "Our Services",
+        "body": "Full washes, paint correction, interior deep cleaning, ceramic coating, and engine bay detailing."
+      },
+      {
+        "title": "Our Process",
+        "body": "Hand wash, meticulous surface prep, premium products, and a final inspection for showroom quality."
+      },
+      {
+        "title": "Why Choose Us",
+        "body": "Experienced technicians, eco‑friendly products, and a satisfaction guarantee on every job."
+      }
+    ],
+    "cta": {
+      "label": "Book Now",
+      "note": "Schedule your appointment online or call us"
+    },
+    "footerNote": "Clean cars, happy drivers"
+  }
+}
